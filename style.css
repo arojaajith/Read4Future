@@ -65,7 +65,7 @@ header a:hover{
 }
 /*Showcase*/
 #showcase{
-  min-height: 200px;
+  min-height: 150px;
   background: url('./mainpic1.jpg');
   background-image: repeating-linear-gradient();
   text-align: center;
