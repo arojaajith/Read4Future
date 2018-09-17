@@ -59,3 +59,12 @@ header nav{
    color: #e8491d;
    font-weight: bold;
  }
+header a:hover{
+  color: #cccccc;
+  font-weight: bold;
+}
+/*ShwCase*/
+#showcase{
+  min-height: 400px;
+  background: url('mainpic1.jpg') no-repeat;
+}
